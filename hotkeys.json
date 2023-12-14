@@ -29,15 +29,6 @@
       "key": "ArrowUp"
     }
   ],
-  "obsidian-git:push": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "G"
-    }
-  ],
   "advanced-cursors:add-cursor-above": [
     {
       "modifiers": [
@@ -54,6 +45,15 @@
         "Mod"
       ],
       "key": "ArrowDown"
+    }
+  ],
+  "obsidian-git:push": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "G"
     }
   ]
 }
