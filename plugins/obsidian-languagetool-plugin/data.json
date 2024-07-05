@@ -3,5 +3,6 @@
   "urlMode": "standard",
   "glassBg": false,
   "shouldAutoCheck": true,
+  "autoCheckDelay": 3000,
   "pickyMode": true
 }

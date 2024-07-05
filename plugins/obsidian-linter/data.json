@@ -77,10 +77,10 @@
       "start-at-h2": false
     },
     "headings-start-line": {
-      "enabled": false
+      "enabled": true
     },
     "remove-trailing-punctuation-in-heading": {
-      "enabled": false,
+      "enabled": true,
       "punctuation-to-remove": ".,;:!。，；：！"
     },
     "footnote-after-punctuation": {
@@ -177,18 +177,18 @@
       "enabled": false
     },
     "heading-blank-lines": {
-      "enabled": false,
+      "enabled": true,
       "bottom": true,
       "empty-line-after-yaml": true
     },
     "line-break-at-document-end": {
-      "enabled": false
+      "enabled": true
     },
     "move-math-block-indicators-to-their-own-line": {
       "enabled": false
     },
     "paragraph-blank-lines": {
-      "enabled": false
+      "enabled": true
     },
     "remove-empty-lines-between-list-markers-and-checklists": {
       "enabled": false
@@ -212,10 +212,12 @@
       "enabled": false
     },
     "space-between-chinese-japanese-or-korean-and-english-or-numbers": {
-      "enabled": false
+      "enabled": false,
+      "english-symbols-punctuation-before": "-+;:'\"°%$)]",
+      "english-symbols-punctuation-after": "-+'\"([¥$"
     },
     "trailing-spaces": {
-      "enabled": false,
+      "enabled": true,
       "twp-space-line-break": false
     },
     "add-blockquote-indentation-on-paste": {
@@ -241,6 +243,21 @@
     },
     "remove-multiple-blank-lines-on-paste": {
       "enabled": false
+    },
+    "dedupe-yaml-array-values": {
+      "enabled": false,
+      "dedupe-alias-key": true,
+      "dedupe-tag-key": true,
+      "dedupe-array-keys": true,
+      "ignore-keys": ""
+    },
+    "sort-yaml-array-values": {
+      "enabled": false,
+      "sort-alias-key": true,
+      "sort-tag-key": true,
+      "sort-array-keys": true,
+      "ignore-keys": "",
+      "sort-order": "Ascending Alphabetical"
     }
   },
   "lintOnSave": true,
