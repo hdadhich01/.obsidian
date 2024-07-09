@@ -2,7 +2,7 @@
   "spellcheck": true,
   "useTab": false,
   "pdfExportSettings": {
-    "includeName": true,
+    "includeName": false,
     "pageSize": "Letter",
     "landscape": false,
     "margin": "0",
@@ -12,5 +12,6 @@
     "booleans",
     "heisenbugs"
   ],
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "./attachments"
 }
