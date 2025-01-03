@@ -1,7 +1,10 @@
 {
   "accentColor": "",
   "theme": "moonstone",
-  "cssTheme": "",
+  "cssTheme": "Minimal",
   "baseFontSize": 16,
-  "nativeMenus": false
+  "nativeMenus": false,
+  "interfaceFontFamily": "",
+  "textFontFamily": "",
+  "monospaceFontFamily": "Source Code Pro"
 }
