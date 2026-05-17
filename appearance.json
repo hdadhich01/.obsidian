@@ -1,10 +1,3 @@
 {
-  "accentColor": "",
-  "theme": "moonstone",
-  "cssTheme": "Cupertino",
-  "baseFontSize": 16,
-  "nativeMenus": false,
-  "interfaceFontFamily": "",
-  "textFontFamily": "",
-  "monospaceFontFamily": "Source Code Pro"
+  "cssTheme": "Cupertino"
 }

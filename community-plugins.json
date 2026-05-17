@@ -1,20 +1,10 @@
 [
-  "obsidian-editor-shortcuts",
-  "quick-latex",
-  "obsidian-dynamic-toc",
-  "code-block-copy",
-  "obsidian-languagetool-plugin",
-  "obsidian-table-generator",
-  "obsidian-version-history-diff",
-  "cm-editor-syntax-highlight-obsidian",
-  "obsidian-outliner",
-  "obsidian-icon-folder",
-  "obsidian-linter",
+  "obsidian-git",
   "obsidian-latex-suite",
   "table-editor-obsidian",
-  "obsidian-git",
-  "obsidian-excalidraw-plugin",
-  "obsidian-tomorrows-daily-note",
-  "better-word-count",
-  "advanced-cursors"
+  "automatic-table-of-contents",
+  "obsidian-linter",
+  "harper",
+  "realclaudian",
+  "iconic"
 ]
